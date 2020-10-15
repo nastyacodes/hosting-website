@@ -18,7 +18,10 @@ body {
 
 .section-title {
     color: #2ddf5c;
+<<<<<<< HEAD
     text-align: center;
+=======
+>>>>>>> 7ad669fa4ffaebb744271db1a4f6b99973da28b5
 }
 
 #product-overview h1 {
@@ -26,6 +29,7 @@ body {
     font-family: 'Anton', sans-serif;
 }
 
+<<<<<<< HEAD
 .plan {
     background-color: #d5ffdc;
     text-align: center;
@@ -137,6 +141,8 @@ body {
     font-size: 20px;
 }
 
+=======
+>>>>>>> 7ad669fa4ffaebb744271db1a4f6b99973da28b5
 .main-header {
     width: 100%;
     background-color: #2ddf5c;
@@ -199,6 +205,7 @@ body {
     color: #ff1b68;
     background-color: white;
     border: none;
+<<<<<<< HEAD
 }
 
 .main-footer {
@@ -227,4 +234,6 @@ body {
 .main-footer__link a:hover,
 .main-footer__link a:active {
     color: #ccc;
+=======
+>>>>>>> 7ad669fa4ffaebb744271db1a4f6b99973da28b5
 }
