@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28d43870-6dff-4d89-a837-1db48a27e49e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hEqyeyfTIgRhtWTF5m2gZpshIv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28d43870-6dff-4d89-a837-1db48a27e49e" name="Default Changelist" comment="" />
+      <created>1599586857018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599586857018</updated>
+      <workItem from="1599586858821" duration="4753000" />
+      <workItem from="1599670062532" duration="4450000" />
+      <workItem from="1599759681237" duration="1732000" />
+      <workItem from="1599764594847" duration="603000" />
+      <workItem from="1599853887160" duration="46000" />
+      <workItem from="1599853968016" duration="2457000" />
+      <workItem from="1599856442755" duration="1045000" />
+      <workItem from="1599898458729" duration="602000" />
+      <workItem from="1599934899697" duration="632000" />
+      <workItem from="1600031346023" duration="1000" />
+      <workItem from="1600450988465" duration="4901000" />
+      <workItem from="1600796623283" duration="599000" />
+      <workItem from="1601204492610" duration="612000" />
+      <workItem from="1601247538654" duration="1775000" />
+      <workItem from="1602011418273" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="18" y="91" key="#Inspections" timestamp="1599856620913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="18" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1599856620913" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1599672979593">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599672979593" />
+    <state width="746" height="117" key="GridCell.Tab.0.bottom" timestamp="1601249318457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="117" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601249318457" />
+    <state width="746" height="117" key="GridCell.Tab.0.center" timestamp="1601249318457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="117" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601249318457" />
+    <state width="746" height="117" key="GridCell.Tab.0.left" timestamp="1601249318457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="117" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601249318457" />
+    <state width="746" height="117" key="GridCell.Tab.0.right" timestamp="1601249318457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="117" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601249318457" />
+    <state width="746" height="117" key="GridCell.Tab.1.bottom" timestamp="1601249318457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="117" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601249318457" />
+    <state width="746" height="117" key="GridCell.Tab.1.center" timestamp="1601249318457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="117" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601249318457" />
+    <state width="746" height="117" key="GridCell.Tab.1.left" timestamp="1601249318457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="117" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601249318457" />
+    <state width="746" height="117" key="GridCell.Tab.1.right" timestamp="1601249318457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="117" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601249318457" />
+    <state width="746" height="117" key="GridCell.Tab.2.bottom" timestamp="1601249318457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="117" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601249318457" />
+    <state width="746" height="117" key="GridCell.Tab.2.center" timestamp="1601249318457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="117" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1601249318457" />
+    <state width="746" height="117" key="GridCell.Tab.2.left" timestamp="1601249318457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="117" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1601249318457" />
+    <state width="746" height="117" key="GridCell.Tab.2.right" timestamp="1601249318457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="117" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1601249318457" />
+    <state width="746" height="117" key="GridCell.Tab.3.bottom" timestamp="1601249318461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="117" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601249318461" />
+    <state width="746" height="117" key="GridCell.Tab.3.center" timestamp="1601249318461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="117" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1601249318461" />
+    <state width="746" height="117" key="GridCell.Tab.3.left" timestamp="1601249318461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="117" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1601249318461" />
+    <state width="746" height="117" key="GridCell.Tab.3.right" timestamp="1601249318461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="117" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1601249318461" />
+    <state x="59" y="0" key="SettingsEditor" timestamp="1599856270929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="59" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599856270929" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1599854826038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1599854826038" />
+  </component>
+</project>
