@@ -1,0 +1,43 @@
+.plan {
+    background-color: #d5ffdc;
+    padding: 15px;
+    margin: 10px;
+    width: 75%;
+    border: 4px solid #0e4f1f;
+}
+
+.plan a {
+    text-decoration: none;
+}
+
+.plan__title {
+    color: black;
+}
+
+.plan__feature {
+    color: #858585;
+    font-weight: bold;
+}
+
+.plan__annotation {
+    color: black;
+    background-color: white;
+    padding: 15px;
+    border: 1.5px solid #0e4f1f;
+}
+
+.plan__plus {
+    background-color: #2ddf5c;
+}
+
+.plan__premium {
+    background-color: #0e4f1f;
+}
+
+.plan__premium .plan__title {
+    color: white;
+}
+
+.plan:hover {
+    border: 4px solid #ff1b68;
+}
