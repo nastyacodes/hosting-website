@@ -1,13 +1,20 @@
+main {
+    padding-top: 32px;
+}
+
 .plan {
     background-color: #d5ffdc;
-    padding: 15px;
-    margin: 10px;
-    width: 75%;
+    margin: 16px 0;
+    width: 80%;
     border: 4px solid #0e4f1f;
+    border-left: none;
 }
 
 .plan a {
     text-decoration: none;
+    color: inherit;
+    display: block;
+    padding: 32px;
 }
 
 .plan__title {
@@ -15,29 +22,53 @@
 }
 
 .plan__feature {
-    color: #858585;
+    color: #979797;
     font-weight: bold;
 }
 
 .plan__annotation {
     color: black;
     background-color: white;
-    padding: 15px;
-    border: 1.5px solid #0e4f1f;
+    padding: 16px;
+    border: 1px solid #0e4f1f;
+    font-size: 20px;
 }
 
-.plan__plus {
-    background-color: #2ddf5c;
+.clearfix {
+    clear: both;
+    /*clear float on both sides*/
 }
 
-.plan__premium {
-    background-color: #0e4f1f;
+#plus {
+    background-color: rgba(213, 255, 220, 0.95);
 }
 
-.plan__premium .plan__title {
+#free {
+    background-color: rgba(234, 252, 237, 0.95);
+    float: right;
+    border-right: none;
+    border-left: 4px solid #0e4f1f;
+}
+
+#free:hover,
+#free:active {
+    border-left-color: #ff5454;
+}
+
+#premium {
+    background-color: rgba(14, 79, 31, 0.95);
+}
+
+#premium .plan__title {
     color: white;
 }
 
-.plan:hover {
-    border: 4px solid #ff1b68;
+#premium .plan__feature {
+    color: #bbb;
+}
+
+.plan:hover,
+.plan:active {
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    border-color: #ff5454;
 }
