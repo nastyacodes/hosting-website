@@ -35,6 +35,7 @@ body {
     position: fixed;
     background-color: #2ddf5c;
     padding: 8px 16px;
+    z-index: 1;
 }
 
 .main-header > div {
