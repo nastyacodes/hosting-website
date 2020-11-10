@@ -10,9 +10,10 @@
     /*background-clip: border-box;*/
     /*background-image: radial-gradient(ellipse closest-corner at 20% 50%, red, blue, yellow);*/
     width: 100%;
-    height: 528px;
-    padding: 10px;
+    height: 33rem;
+    padding: 0.6rem;
     position: relative;
+    margin-top: 2.5rem;
 }
 
 .section-title {
@@ -37,8 +38,8 @@
 .plan {
     background-color: #d5ffdc;
     text-align: center;
-    padding: 16px;
-    margin: 8px;
+    padding: 1rem;
+    margin: 0.5rem;
     display: inline-block;
     width: 30%;
     vertical-align: middle;
@@ -61,7 +62,7 @@
 .plan__annotation{
     background-color: white;
     color: #09b84c;
-    padding: 8px;
+    padding: 0.5rem;
     box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, .4);
     border-radius: 8px;
 }
@@ -81,18 +82,18 @@
 }
 
 .plan__feature {
-    margin: 8px 0;
+    margin: 0.5rem 0;
 }
 
 #key-features {
     background-color: #ff1b68;
-    margin-top: 80px;
-    padding: 16px;
+    margin-top: 5rem;
+    padding: 1rem;
 }
 
 #key-features .section-title {
     color: white;
-    margin: 32px;
+    margin: 2rem;
 }
 
 .key-feature__list {
@@ -115,13 +116,13 @@
     border: 2px solid #424242;
     border-radius: 50%;
     margin: auto;
-    padding: 20px;
+    padding: 1.25rem;
 }
 
 .key-feature__description {
     text-align: center;
     font-weight: bold;
     color: white;
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 
