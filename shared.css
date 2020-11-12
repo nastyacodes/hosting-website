@@ -11,10 +11,12 @@ html {
 body {
     font-family: 'Montserrat', sans-serif;
     margin: 0;
+    overflow-x: hidden; /*to hide a horizontal scrollbar*/
 }
 
 .backdrop {
     position: fixed;
+    display: none;
     top: 0;
     left: 0;
     z-index: 100;
