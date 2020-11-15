@@ -83,6 +83,9 @@ body {
 
 .main-header__brand {
     color: #0e4f1f;
+    position: absolute;
+    top: 0.8rem;
+    right: 0.8rem;
     text-decoration: none;
     font-weight: bold;
     font-size: 1.4rem;
@@ -92,6 +95,13 @@ body {
 
 .main-header__brand img {
     height: 2.5rem;
+
+}
+
+@media (min-width: 40rem) {
+    .main-header__brand {
+        position: static;
+    }
 }
 
 .main-nav {
