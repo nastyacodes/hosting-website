@@ -15,7 +15,7 @@
     height: 33vh;
     padding: 0.6rem;
     position: relative;
-    margin-top: 2.5rem;
+    margin-top: 3.5rem;
 }
 
 #product-overview h1 {
@@ -27,7 +27,7 @@
     font-size: 1.6rem;
 }
 
-@media (min-width: 40rem) and (min-height: 60rem) {
+@media (min-width: 40rem) and (min-height: 35rem) {
     #product-overview {
         height: 40vh;
         background-position: 50% 25%;
