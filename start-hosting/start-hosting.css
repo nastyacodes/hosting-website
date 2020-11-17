@@ -28,9 +28,10 @@ main {
 .signup-form input[id*="terms"] + label {
     display: inline-block;
     width: auto;
+    vertical-align: bottom;
 }
 
-.signup-form input,
+.signup-form input:not([type="checkbox"]),
 .signup-form select {
     border: 1px solid #ccc;
     padding: 0.2rem 0.5rem;
@@ -42,6 +43,30 @@ main {
     outline: none;
     background: #d8f3df;
     border-color: #2ddf5c;
+}
+
+.signup-form input[type="checkbox"] {
+    border: 1px solid #ccc;
+    background: white;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 0.25rem;
+    /*setting default appearance to none*/
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.signup-form input[type="checkbox"]:checked {
+    background: #2ddf5c;
+    border: 1px solid #0e4f1f;
+}
+
+.signup-form input.invalid,
+.signup-form select.invalid,
+.signup-form :invalid {
+    border-color: red !important;
+    background: #faacac;
 }
 
 .signup-form button[type="submit"] {
